@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bob Warren, aka Master Hoshi
-- 👀 I’m interested in technology and software devleopment.
+- 👀 I’m interested in technology and software development.
 - 🌱 I’m currently learning health tech and blockchain
 - 💞️ I’m looking to collaborate on Augmented JS
 - 📫 How to reach me jedi.master@augmentedjs.com
